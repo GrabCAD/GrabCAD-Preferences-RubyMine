@@ -1,4 +1,4 @@
-# Pivotal RubyMine Preferences #
+# GrabCAD RubyMine Preferences #
 
 Once upon a time, RubyMine shipped with keybindings that made no sense to anyone who had ever used a Mac. Hence, the Pivotal RubyMine preferences were born. It includes:
 
@@ -7,6 +7,8 @@ Once upon a time, RubyMine shipped with keybindings that made no sense to anyone
 * Live Templates (ruby, jasmine)
 
 Today, this project is not only a repository of Pivotal's preferences for RubyMine - it's also a recommended workflow for tracking your team's customizations to RubyMine preferences. 
+
+This repository is a GrabCAD specific fork.
 
 ## Ruby Versions ##
 
@@ -21,8 +23,8 @@ First, *close RubyMine*.
 Then, run the following commands:
 
 ```sh
-git clone http://github.com/pivotal/Pivotal-Preferences-RubyMine.git
-cd Pivotal-Preferences-RubyMine
+git clone http://github.com/grabcad/GrabCAD-Preferences-RubyMine.git
+cd GrabCAD-Preferences-RubyMine
 ./mineprefs install
 ```
 
