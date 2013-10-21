@@ -8,6 +8,12 @@ Once upon a time, RubyMine shipped with keybindings that made no sense to anyone
 
 Today, this project is not only a repository of Pivotal's preferences for RubyMine - it's also a recommended workflow for tracking your team's customizations to RubyMine preferences. 
 
+## Ruby Versions ##
+
+Ruby 2.0 is required to run the install script.
+
+I use [rbenv](https://github.com/sstephenson/rbenv) for managing my ruby versions easily.
+
 ## Installation ##
 
 First, *close RubyMine*. 
